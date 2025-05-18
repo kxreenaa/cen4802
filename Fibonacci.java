@@ -1,3 +1,10 @@
+/** 
+ * Returns the nth Fibonacci sequence
+ * 
+ * @param n the position in the Fibonacci sequence
+ * @return the nth Fibonacci number
+ */
+ 
 public class Fibonacci {
 
     public static int fibonacci(int n) {
